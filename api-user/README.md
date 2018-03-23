@@ -1,8 +1,10 @@
 ## User creation using REST API
-```npm install mongoose --save
+```
+npm install mongoose --save
 npm install express
 npm install body-parser
-npm install cors```
+npm install cors
+```
 
 ## Mongo database and table
 >use users;
